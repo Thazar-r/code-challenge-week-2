@@ -19,3 +19,4 @@ A simple interactive shopping list application built with HTML, CSS, and JavaScr
 
    ```bash
    git clone https://github.com/Thazar-r/code-challenge-week-2.git
+   
